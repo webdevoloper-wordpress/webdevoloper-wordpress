@@ -212,15 +212,6 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 
 <br>
 
-## 🎨 Design Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop,xd"/>
-
-</div>
-
-<br>
 
 ## 🔧 WordPress Ecosystem
 
