@@ -1,206 +1,140 @@
-```html
-<section class="about-developer">
-  <div class="about-container">
+# 👋 Hi, I'm Md Anowar Hossain
 
-    <div class="about-content">
+## 🚀 WordPress Developer | Elementor Expert | WordPress Designer
 
-      <span class="about-badge">WORDPRESS EXPERT</span>
+Are you looking for a **skilled WordPress Developer**, **creative WordPress Designer**, or an **Expert Elementor Designer** to build a stunning, high-performance website?
 
-      <h2>
-        Skilled WordPress Developer &amp;
-        <span>Elementor Expert</span>
-      </h2>
+You've come to the right place!
 
-      <p class="about-intro">
-        Are you looking for a skilled WordPress Developer, creative WordPress
-        Designer, or an Expert Elementor Designer to build a stunning,
-        high-performance website? You've come to the right place!
-      </p>
+I'm **Md Anowar Hossain**, a **Certified WordPress Elementor Expert** with over **4 years of experience** in designing and developing custom WordPress websites.
 
-      <p>
-        Hi, I'm <strong>Md Anowar Hossain</strong>, a certified WordPress
-        Elementor Expert with over <strong>4 years of experience</strong>
-        designing and developing custom WordPress websites.
-      </p>
+I specialize in creating **responsive, user-friendly, SEO-friendly, and visually appealing websites** using **WordPress, Elementor, and WooCommerce**.
 
-      <p>
-        I specialize in creating <strong>responsive, user-friendly,
-        SEO-friendly, and visually appealing websites</strong> using
-        WordPress, Elementor, and WooCommerce.
-      </p>
+---
 
-      <div class="services-box">
-        <h3>⚡ Services I Provide</h3>
+## ⚡ Services I Provide
 
-        <div class="services-grid">
-          <span>✓ WordPress Website Design</span>
-          <span>✓ WordPress Customization</span>
-          <span>✓ Elementor Design</span>
-          <span>✓ Figma to WordPress</span>
-          <span>✓ Figma to Elementor</span>
-          <span>✓ PSD to WordPress</span>
-          <span>✓ WooCommerce Websites</span>
-          <span>✓ Landing Page Design</span>
-          <span>✓ Website Speed Optimization</span>
-          <span>✓ WordPress Maintenance</span>
-          <span>✓ WordPress Security</span>
-          <span>✓ SEO-Friendly Websites</span>
-        </div>
-      </div>
+- ✅ WordPress Website Design & Customization
+- ✅ WordPress Portfolio Websites
+- ✅ WordPress Agency Websites
+- ✅ WordPress Blog Websites
+- ✅ WordPress Clone Websites
+- ✅ Figma to WordPress
+- ✅ Figma to Elementor
+- ✅ PSD to WordPress
+- ✅ WooCommerce & E-commerce Websites
+- ✅ WordPress Speed Optimization
+- ✅ Affiliate Marketing Websites
+- ✅ Theme Customization
+- ✅ Marketing Landing Pages
+- ✅ Sales Pages
+- ✅ WordPress Website Maintenance
+- ✅ Ongoing WordPress Support
+- ✅ WordPress Website Management
+- ✅ WordPress Security & Maintenance
+- ✅ SEO-Friendly WordPress Websites
+- ✅ WordPress Landing Page Design
 
-      <div class="skills-box">
-        <h3>🛠 Technical Skills</h3>
+---
 
-        <div class="skill-tags">
-          <span>WordPress</span>
-          <span>Elementor</span>
-          <span>Elementor Pro</span>
-          <span>WooCommerce</span>
-          <span>PHP</span>
-          <span>HTML</span>
-          <span>CSS</span>
-          <span>JavaScript</span>
-          <span>Figma</span>
-          <span>Yoast SEO</span>
-          <span>Rank Math</span>
-          <span>WP Rocket</span>
-        </div>
-      </div>
+## 🛠️ Technical Skills
 
-      <div class="website-types">
-        <h3>🌐 Types of Websites I Build</h3>
+### WordPress Development
+Custom themes, plugins, website functionality, customization, and integrations.
 
-        <ul>
-          <li>Business Websites</li>
-          <li>E-Commerce Stores</li>
-          <li>Portfolio Websites</li>
-          <li>Agency Websites</li>
-          <li>Real Estate Websites</li>
-          <li>Blog &amp; Affiliate Websites</li>
-          <li>Landing Pages</li>
-          <li>Marketing Websites</li>
-        </ul>
-      </div>
+### Elementor
+- Elementor
+- Elementor Pro
+- Premium Elementor Add-ons
+- Responsive Design
+- Custom Layouts
 
-      <a
-        href="https://www.upwork.com/freelancers/~01999a544f5bd8012b"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="about-button"
-      >
-        Hire Me on Upwork →
-      </a>
+### WordPress Themes
+- Astra
+- Hello Elementor
+- Avada
+- The7
+- Phlox Pro
 
-    </div>
+### SEO & Optimization
+- Yoast SEO
+- Rank Math
+- All in One SEO
+- WP Rocket
+- Website Speed Optimization
 
-  </div>
-</section>
+### WooCommerce
+- WooCommerce
+- WooCommerce Bookings
+- WooCommerce Subscriptions
+- E-commerce customization
 
-<style>
-.about-developer {
-  padding: 100px 20px;
-  background: #0b0f19;
-  color: #ffffff;
-  font-family: Arial, sans-serif;
-}
+### Popular Plugins
+- Contact Form 7
+- WPForms
+- Gravity Forms
+- Smart Slider 3
+- Revolution Slider
 
-.about-container {
-  max-width: 1100px;
-  margin: 0 auto;
-}
+### Design & Conversion
+- Figma to WordPress
+- PSD to WordPress
+- XD to WordPress
+- HTML to WordPress
+- Responsive Web Design
 
-.about-content {
-  max-width: 1000px;
-  margin: auto;
-}
+---
 
-.about-badge {
-  display: inline-block;
-  padding: 8px 16px;
-  margin-bottom: 20px;
-  border: 1px solid #3b82f6;
-  border-radius: 50px;
-  color: #60a5fa;
-  font-size: 13px;
-  font-weight: 700;
-  letter-spacing: 1px;
-}
+## 🔧 Additional Services
 
-.about-content h2 {
-  margin: 0 0 25px;
-  font-size: clamp(36px, 5vw, 62px);
-  line-height: 1.1;
-  font-weight: 800;
-}
+### 🌐 Website Migration
+Seamless WordPress website migration with minimal downtime.
 
-.about-content h2 span {
-  color: #60a5fa;
-}
+### 📝 Content Management
+Uploading, formatting, editing, and customizing website content.
 
-.about-content p {
-  color: #b7c0d1;
-  font-size: 17px;
-  line-height: 1.8;
-  margin-bottom: 18px;
-}
+### 🖼️ Image Optimization
+Optimizing images to improve website loading speed and performance.
 
-.about-content strong {
-  color: #ffffff;
-}
+### 🔄 WordPress Maintenance
+Regular updates, security checks, bug fixes, and ongoing website support.
 
-.about-intro {
-  font-size: 20px !important;
-  color: #dce3ef !important;
-}
+---
 
-.services-box,
-.skills-box,
-.website-types {
-  margin-top: 45px;
-  padding: 30px;
-  background: #111827;
-  border: 1px solid #1f2937;
-  border-radius: 18px;
-}
+## 🌍 Types of Websites I Build
 
-.services-box h3,
-.skills-box h3,
-.website-types h3 {
-  margin-top: 0;
-  margin-bottom: 25px;
-  font-size: 24px;
-}
+- 💼 Business Websites
+- 🛒 E-commerce Stores
+- 🎨 Portfolio Websites
+- 🏢 Agency Websites
+- 🏠 Real Estate Websites
+- ✍️ Blog Websites
+- 💰 Affiliate Websites
+- 🚀 Landing Pages
+- 📈 Marketing Websites
+- 📚 Book & Publishing Websites
 
-.services-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 14px;
-}
+---
 
-.services-grid span {
-  padding: 14px 16px;
-  background: #0b0f19;
-  border-radius: 10px;
-  color: #dbeafe;
-  font-size: 15px;
-  transition: 0.3s ease;
-}
+## 💻 My Tech Stack
 
-.services-grid span:hover {
-  transform: translateX(5px);
-  border-color: #3b82f6;
-}
+<p align="left">
 
-.skill-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
+<img src="https://skillicons.dev/icons?i=wordpress,html,css,js,php,figma,git,github" />
 
-.skill-tags span {
-  padding: 10px 16px;
-  background: #0b0f19;
-  border: 1px solid #263244;
-  border-radiu
-```
+</p>
+
+---
+
+## 🎯 What I Focus On
+
+```text
+✔ Clean & Modern Design
+✔ Mobile Responsive Websites
+✔ Fast Loading Speed
+✔ SEO-Friendly Structure
+✔ User-Friendly Experience
+✔ Conversion-Focused Layouts
+✔ Clean WordPress Development
+✔ Reliable Website Maintenance
 
