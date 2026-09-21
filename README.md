@@ -85,7 +85,6 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 <img src="https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elementor-Expert-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
 <img src="https://img.shields.io/badge/WooCommerce-Specialist-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-Designer-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
 
