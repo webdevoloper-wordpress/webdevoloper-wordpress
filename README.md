@@ -452,3 +452,35 @@ Optimized content
 
 📩 Open to freelance projects, WordPress development, and long-term collaborations.
 
+
+## 🚀 Ready to Build Your Next Website?
+
+<p align="center">
+
+<a href="https://www.upwork.com/freelancers/~01999a544f5bd8012b">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21759B,50:6366F1,100:8B5CF6&height=120&text=HIRE%20ME%20ON%20UPWORK%20%F0%9F%92%BC&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
+</a>
+
+<br><br>
+
+<a href="https://www.upwork.com/freelancers/~01999a544f5bd8012b">
+<img src="https://img.shields.io/badge/💼%20Hire%20Me%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+<strong>WordPress • Elementor • WooCommerce • Figma → WordPress</strong>
+<br>
+<sub>Let's turn your ideas into a modern, high-performance website.</sub>
+</p>
+
+---
+
+<p align="center">
+<strong>Thanks for visiting my profile! ⭐</strong>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,50:6366F1,100:8B5CF6&height=100&section=footer"/>
+</p>
+
+
