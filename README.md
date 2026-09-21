@@ -85,22 +85,6 @@ Custom themes, plugins, website functionality, customization, and integrations.
 
 ---
 
-## 🔧 Additional Services
-
-### 🌐 Website Migration
-Seamless WordPress website migration with minimal downtime.
-
-### 📝 Content Management
-Uploading, formatting, editing, and customizing website content.
-
-### 🖼️ Image Optimization
-Optimizing images to improve website loading speed and performance.
-
-### 🔄 WordPress Maintenance
-Regular updates, security checks, bug fixes, and ongoing website support.
-
----
-
 ## 🌍 Types of Websites I Build
 
 - 💼 Business Websites
