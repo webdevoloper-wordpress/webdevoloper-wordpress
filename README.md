@@ -458,25 +458,3 @@ Optimized content
 
 </div>
 
----
-🧰 Additional Services
-Service	What I Provide
-🌐 Website Migration	Seamless WordPress migration
-📝 Content Management	Content uploading & formatting
-🖼️ Image Optimization	Image compression & optimization
-⚡ Speed Optimization	Website performance improvements
-🔐 Security	Updates & security maintenance
-🐛 Bug Fixing	WordPress troubleshooting
-🔄 Maintenance	Ongoing website management
-📈 SEO	SEO-friendly website setup
-📞 Let's Work Together
-<div align="center">
-🚀 Have a WordPress project?
-Let's turn your idea into a professional website.
-<br> <a href="https://www.upwork.com/freelancers/~01999a544f5bd8012b"> <img src="https://img.shields.io/badge/💼%20Hire%20Me%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/> </a>
-
-<br><br>
-
-<a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/🐙%20Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
-🌐 Connect With Me
-<div align="center"> <a href="https://www.upwork.com/freelancers/~01999a544f5bd8012b"> <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/> </a> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
