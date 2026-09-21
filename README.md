@@ -447,4 +447,8 @@ Optimized content
 </table>
 
 </div>
+📬 Let's Connect
+
+
+📩 Open to freelance projects, WordPress development, and long-term collaborations.
 
