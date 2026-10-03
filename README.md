@@ -16,10 +16,15 @@
 <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
+<a href="https://wa.me/8801607209876?text=Hi%20Anowar%2C%20I%27m%20interested%20in%20your%20WordPress%20services.">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 <a href="https://github.com/webdevoloper-wordpress">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</div>
 
 ---
 
@@ -206,7 +211,6 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 </div>
 
 <br>
-
 
 ## 🔧 WordPress Ecosystem
 
@@ -442,13 +446,30 @@ Optimized content
 </table>
 
 </div>
-📬 Let's Connect
 
+---
 
-📩 Open to freelance projects, WordPress development, and long-term collaborations.
+# 📬 Let's Connect
 
+<div align="center">
 
-## 🚀 Ready to Build Your Next Website?
+📩 **Open to freelance projects, WordPress development, and long-term collaborations.**
+
+<br>
+
+<a href="https://wa.me/8801607209876?text=Hi%20Anowar%2C%20I%27m%20interested%20in%20your%20WordPress%20services.">
+<img src="https://img.shields.io/badge/Message%20Me%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01999a544f5bd8012b">
+<img src="https://img.shields.io/badge/Work%20With%20Me%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 Ready to Build Your Next Website?
 
 <p align="center">
 
@@ -456,13 +477,26 @@ Optimized content
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:21759B,50:6366F1,100:8B5CF6&height=120&text=HIRE%20ME%20ON%20UPWORK%20%F0%9F%92%BC&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
 </a>
 
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://wa.me/8801607209876?text=Hi%20Anowar%2C%20I%27m%20interested%20in%20your%20WordPress%20services.">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=25D366&height=100&text=MESSAGE%20ME%20ON%20WHATSAPP%20%F0%9F%92%AC&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
+
 <strong>Thanks for visiting my profile! ⭐</strong>
+
 <br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,50:6366F1,100:8B5CF6&height=100&section=footer"/>
+
 </p>
-
-
