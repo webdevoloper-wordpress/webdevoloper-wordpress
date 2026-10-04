@@ -4,34 +4,39 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,50:6366F1,100:8B5CF6&height=220&section=header&text=Md%20Anowar%20Hossain&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20Developer%20%7C%20Elementor%20Expert%20%7C%20WooCommerce%20Specialist&descAlignY=60&descSize=17"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,50:6366F1,100:8B5CF6&height=220&section=header&text=Md%20Anowar%20Hossain&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20Developer%20%7C%20Elementor%20Expert%20%7C%20WooCommerce%20Specialist&descAlignY=60&descSize=17"
+width="100%"
+alt="Md Anowar Hossain"
+/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=WordPress+Developer;Elementor+Expert;WooCommerce+Specialist;Figma+to+WordPress+Developer;Landing+Page+Designer;Website+Performance+Optimizer" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=WordPress+Developer;Elementor+Expert;WooCommerce+Specialist;Figma+to+WordPress+Developer;Landing+Page+Designer;Website+Performance+Optimizer"
+width="100%"
+alt="Typing animation"
+/>
 
 <br><br>
 
 <a href="https://www.upwork.com/freelancers/~01999a544f5bd8012b">
-<img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Me on Upwork"/>
 </a>
 
 <a href="https://wa.me/8801607209876?text=Hi%20Anowar%2C%20I%27m%20interested%20in%20your%20WordPress%20services.">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 <a href="https://github.com/webdevoloper-wordpress">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+</div>
 
 ---
 
 # 👋 About Me
-
-<table>
-<tr>
-<td width="65%">
 
 ## 🚀 Hello, I'm Md Anowar Hossain
 
@@ -50,13 +55,9 @@ I specialize in creating:
 
 I transform ideas, Figma designs, PSD files, and existing websites into **modern, responsive, fast, and professional WordPress websites**.
 
-</td>
+---
 
-<td width="35%">
-
-<div align="center">
-
-### ⚡ Quick Facts
+## ⚡ Quick Facts
 
 | | |
 |---|---|
@@ -69,21 +70,15 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 | 🔍 **SEO** | Optimization |
 | 🌎 **Work** | Freelance |
 
-</div>
-
-</td>
-</tr>
-</table>
-
 ---
 
 # 🧑‍💻 Professional Profile
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elementor-Expert-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
-<img src="https://img.shields.io/badge/WooCommerce-Specialist-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+<img src="https://img.shields.io/badge/Elementor-Expert-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
+<img src="https://img.shields.io/badge/WooCommerce-Specialist-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
 
 </div>
 
@@ -95,12 +90,7 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 
 # ⚡ Services I Provide
 
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## 🌐 WordPress
+### 🌐 WordPress Development
 
 **Website Development**
 
@@ -113,13 +103,7 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 - Plugin Integration
 - Website Redesign
 
-</td>
-
-<td width="33%" align="center">
-
-## 🎨 Elementor
-
-**Design & Development**
+### 🎨 Elementor Design & Development
 
 - Elementor
 - Elementor Pro
@@ -130,13 +114,7 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 - Custom Sections
 - Website Redesign
 
-</td>
-
-<td width="33%" align="center">
-
-## 🛒 WooCommerce
-
-**E-Commerce**
+### 🛒 WooCommerce Development
 
 - Online Stores
 - Product Pages
@@ -147,15 +125,7 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 - Subscriptions
 - Payment Integration
 
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-## 🚀 Optimization
+### 🚀 Website Optimization
 
 - Speed Optimization
 - Image Optimization
@@ -164,11 +134,7 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 - Database Optimization
 - Performance Improvements
 
-</td>
-
-<td align="center">
-
-## 🔍 SEO
+### 🔍 SEO Optimization
 
 - Yoast SEO
 - Rank Math
@@ -178,11 +144,7 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 - Internal Linking
 - SEO-Friendly Structure
 
-</td>
-
-<td align="center">
-
-## 🛠️ Maintenance
+### 🛠️ WordPress Maintenance
 
 - WordPress Updates
 - Security
@@ -192,11 +154,6 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 - Backup
 - Ongoing Support
 
-</td>
-
-</tr>
-</table>
-
 ---
 
 # 🛠️ Tech Stack
@@ -205,23 +162,26 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=wordpress,html,css,js,php,git,github,vscode"/>
+<img
+src="https://skillicons.dev/icons?i=wordpress,html,css,js,php,git,github,vscode"
+width="100%"
+alt="Technology stack"
+/>
 
 </div>
 
 <br>
 
-
 ## 🔧 WordPress Ecosystem
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elementor%20Pro-92003B?style=flat-square&logo=elementor&logoColor=white"/>
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Astra-2D2D2D?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hello%20Elementor-92003B?style=flat-square"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+<img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor"/>
+<img src="https://img.shields.io/badge/Elementor%20Pro-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor Pro"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+<img src="https://img.shields.io/badge/Astra-2D2D2D?style=flat-square" alt="Astra"/>
+<img src="https://img.shields.io/badge/Hello%20Elementor-92003B?style=flat-square" alt="Hello Elementor"/>
 
 </div>
 
@@ -229,11 +189,7 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 
 # 📚 Skills & Expertise
 
-<table>
-<tr>
-<td>
-
-### 🧩 WordPress Development
+## 🧩 WordPress Development
 
 - Custom WordPress Websites
 - Theme Customization
@@ -243,11 +199,7 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 - Website Migration
 - Website Maintenance
 
-</td>
-
-<td>
-
-### 🎨 UI & Web Design
+## 🎨 UI & Web Design
 
 - Figma to WordPress
 - PSD to WordPress
@@ -257,13 +209,7 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 - Landing Pages
 - Sales Pages
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ⚡ Performance
+## ⚡ Performance
 
 - Website Speed Optimization
 - Image Optimization
@@ -272,11 +218,7 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 - Mobile Optimization
 - Core Web Vitals
 
-</td>
-
-<td>
-
-### 🔍 SEO
+## 🔍 SEO
 
 - Yoast SEO
 - Rank Math
@@ -286,104 +228,77 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 - Image SEO
 - SEO-Friendly Structure
 
-</td>
-</tr>
-</table>
-
 ---
 
 # 🌍 Types of Websites I Build
 
-<div align="center">
+| 💼 Business | 🏢 Agency |
+|:---:|:---:|
+| Corporate Websites | Digital Agencies |
+| Service Websites | Creative Agencies |
 
-| 💼 Business | 🏢 Agency | 🛒 E-Commerce |
-|:---:|:---:|:---:|
-| Corporate Websites | Digital Agencies | WooCommerce Stores |
-| Service Websites | Creative Agencies | Product Websites |
+| 🛒 E-Commerce | 🎨 Portfolio |
+|:---:|:---:|
+| WooCommerce Stores | Personal Portfolio |
+| Product Websites | Freelancer Websites |
 
-| 🎨 Portfolio | 🏠 Real Estate | ✍️ Content |
-|:---:|:---:|:---:|
-| Personal Portfolio | Property Websites | Blogs |
-| Freelancer Websites | Real Estate Agencies | Affiliate Websites |
+| 🏠 Real Estate | ✍️ Content |
+|:---:|:---:|
+| Property Websites | Blogs |
+| Real Estate Agencies | Affiliate Websites |
 
-| 🚀 Landing Pages | 📚 Publishing | 📈 Marketing |
-|:---:|:---:|:---:|
-| Sales Pages | Book Websites | Lead Generation |
-| Product Landing Pages | E-Book Stores | Marketing Websites |
-
-</div>
+| 🚀 Landing Pages | 📈 Marketing |
+|:---:|:---:|
+| Sales Pages | Lead Generation |
+| Product Landing Pages | Marketing Websites |
 
 ---
 
 # 💼 Portfolio
 
-<div align="center">
-
-### 🌐 Selected WordPress Projects
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%">
+## 🌐 Selected WordPress Projects
 
 ### 🏢 Raynor Massage GC
 
 **WordPress Maintenance**
 
-🔧 WordPress  
-🎨 Website Maintenance  
-⚡ Performance  
-📱 Responsive Design
+- 🔧 WordPress
+- 🎨 Website Maintenance
+- ⚡ Performance
+- 📱 Responsive Design
 
-</td>
-
-<td width="50%">
+---
 
 ### 💎 Gems Exchange
 
 **WordPress Website**
 
-🔧 WordPress  
-📊 GA4  
-🎯 GTM  
-📈 Conversion Tracking
+- 🔧 WordPress
+- 📊 GA4
+- 🎯 GTM
+- 📈 Conversion Tracking
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ### 📚 Secret Press
 
 **Book & E-Book Website**
 
-📖 Publishing Website  
-🛒 E-Commerce  
-🎨 Landing Page  
-📱 Responsive Design
+- 📖 Publishing Website
+- 🛒 E-Commerce
+- 🎨 Landing Page
+- 📱 Responsive Design
 
-</td>
-
-<td width="50%">
+---
 
 ### 🌐 Digital Agency Websites
 
 **Professional Business Websites**
 
-🎨 Elementor  
-💻 WordPress  
-🚀 Landing Pages  
-📈 Marketing Design
-
-</td>
-
-</tr>
-</table>
+- 🎨 Elementor
+- 💻 WordPress
+- 🚀 Landing Pages
+- 📈 Marketing Design
 
 ---
 
@@ -391,80 +306,56 @@ I transform ideas, Figma designs, PSD files, and existing websites into **modern
 
 <div align="center">
 
-<table>
-<tr>
+| ⚡ FAST | 📱 RESPONSIVE |
+|:---:|:---:|
+| Fast loading | Mobile |
+| Optimized assets | Tablet |
+| Better performance | Desktop |
 
-<td align="center">
-
-### ⚡
-
-**FAST**
-
-Fast loading  
-Optimized assets  
-Better performance
-
-</td>
-
-<td align="center">
-
-### 📱
-
-**RESPONSIVE**
-
-Mobile  
-Tablet  
-Desktop
-
-</td>
-
-<td align="center">
-
-### 🎨
-
-**MODERN**
-
-Clean UI  
-Modern layouts  
-Professional design
-
-</td>
-
-<td align="center">
-
-### 🔍
-
-**SEO**
-
-Clean structure  
-SEO-friendly  
-Optimized content
-
-</td>
-
-</tr>
-</table>
+| 🎨 MODERN | 🔍 SEO |
+|:---:|:---:|
+| Clean UI | Clean structure |
+| Modern layouts | SEO-friendly |
+| Professional design | Optimized content |
 
 </div>
-📬 Let's Connect
-
-
-📩 Open to freelance projects, WordPress development, and long-term collaborations.
-
-
-## 🚀 Ready to Build Your Next Website?
-
-<p align="center">
-
-<a href="https://www.upwork.com/freelancers/~01999a544f5bd8012b">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21759B,50:6366F1,100:8B5CF6&height=120&text=HIRE%20ME%20ON%20UPWORK%20%F0%9F%92%BC&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
-</a>
-
 
 ---
 
-<p align="center">
+# 📬 Let's Connect
+
+📩 **Open to freelance projects, WordPress development, and long-term collaborations.**
+
+---
+
+# 🚀 Ready to Build Your Next Website?
+
+<div align="center">
+
+<a href="https://www.upwork.com/freelancers/~01999a544f5bd8012b">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:21759B,50:6366F1,100:8B5CF6&height=120&text=HIRE%20ME%20ON%20UPWORK%20%F0%9F%92%BC&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=fadeIn"
+width="100%"
+alt="Hire me on Upwork"
+/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 <strong>Thanks for visiting my profile! ⭐</strong>
+
 <br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,50:6366F1,100:8B5CF6&height=100&section=footer"/>
-</p>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,50:6366F1,100:8B5CF6&height=100&section=footer"
+width="100%"
+alt="Footer"
+/>
+
+</div>
